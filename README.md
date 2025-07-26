@@ -20,8 +20,9 @@ A simple Node.js-based Contact Management Web Application that allows users to v
 ## 📁 Project Structure
 
 contact-app/
+
 ├── config/
-│ └── database.js # Database connection logic
+│ └── database.js # Database connection logic 
 ├── routes/
 │ └── contact.routes.js # Route definitions
 ├── views/ # EJS templates
@@ -29,7 +30,6 @@ contact-app/
 ├── index.js # Main entry point
 ├── .env # Environment variables
 └── package.json # Project metadata and dependencies
-
 
 
 ## 🧑‍💻 Getting Started
